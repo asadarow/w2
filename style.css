@@ -152,7 +152,7 @@ a:hover {
 
 .header {
   padding: 308px 0px;
-  background-image: url(/img/banner.png);
+  background-image: url(./img/banner.png);
   background-position: center center;
   background-size: cover;
   width: 100vw;
